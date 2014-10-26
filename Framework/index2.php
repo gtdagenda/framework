@@ -1,3 +1,3 @@
 <?php
 
-from web
+echo 'from web';
